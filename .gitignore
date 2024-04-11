@@ -1,6 +1,6 @@
 #忽略index.js文件
 index.js
 # 忽略text目录下所有文件
-text/
+.text/
 # 除了txt3
-! text/test3.txt
+! text.test3.txt
